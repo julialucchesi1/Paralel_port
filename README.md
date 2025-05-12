@@ -1,6 +1,6 @@
 # Paralel_port 
 
-Neste trabalho serão feitas 1000 possíveis carteiras que distribuam pesos a 25 das 20 ações de empresas do DowJones. Para isso primeiro foram importadas as bibliotecas que serão usadas e explicadas a seguir.
+Neste trabalho serão feitas 1000 possíveis carteiras que distribuam pesos a 25 das 30 ações de empresas do DowJones. Para isso primeiro foram importadas as bibliotecas que serão usadas e explicadas a seguir.
 
 Para que os retornos de cada uma das 30 ações do período entre 01/08/2024-31/12/2024, segundo semestre de 2024, com o a biblioteca yfinance esses dados foram retirados via yahoo finance diretamente para o código via essa API retirando a primeira linha onde estão os nomes.
 
